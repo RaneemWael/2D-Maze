@@ -1,4 +1,5 @@
 # 2D-Maze
+A game coded in C++ where the player is trying to reach the goal at the end of the maze.
 
 ## Description:
 
